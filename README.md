@@ -2,7 +2,7 @@
 
 # About the competition  
 A case study focused on the demise of Long-Term Capital Management. Teams evaluated the risk-based performance of the fund and its spectacular fall by issuing recommendations on many levels including trading, governance structure, and regulation and simulating an environment that included central clearing.    
-https://prmia.org/Public/Resources/News/Public/News/2020 News/PRMIA_Announces_the_Champions_of_the_2020_Risk_Management_Challenge.aspx  
+https://prmia.org/Public/Resources/News/Public/News/2020-News/PRMIA_Announces_the_Champions_of_the_2020_Risk_Management_Challenge.aspx  
 
 # Team 9893  (Champions) 
 Alyssa Wei www.linkedin.com/in/alyssawzp  
